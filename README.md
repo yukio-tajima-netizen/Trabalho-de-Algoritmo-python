@@ -1,1 +1,0 @@
-# Tralho-de-Algoritimo-python
