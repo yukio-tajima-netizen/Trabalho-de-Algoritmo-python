@@ -128,4 +128,4 @@ Disciplina: Algoritmos e Lógica de Programação
 
 ## Repositório
 
-Link do GitHub: https://github.com/yukio-tajima-netizen/Tralho-de-Algoritimo-python
+Link do GitHub: https://github.com/yukio-tajima-netizen/Trabalho-de-Algoritimo-python
