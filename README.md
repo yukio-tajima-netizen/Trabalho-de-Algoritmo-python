@@ -58,12 +58,12 @@ As caixas são automaticamente fechadas quando atingem 10 peças aprovadas.
 ### Passo a passo:
 
 1. Baixe o arquivo:
-   trabalho_sqlite_autoincrement_corrigido.py
+   trabalho_sqlite_corrigido.py
 
 2. Abra o terminal na pasta do arquivo
 
 3. Execute o comando:
-   python trabalho_sqlite_autoincrement_corrigido.py
+   python trabalho_sqlite_corrigido.py
 
 4. Utilize o menu interativo
 
